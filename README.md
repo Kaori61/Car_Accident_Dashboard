@@ -4,12 +4,12 @@
 Car accidents trend over the 5 years.
 
 ## Data used
-[dataset](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents)
+Traffic Accident dataset from [Kaggle](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents)
 
 ## Questions (KIPs)
-- The number car accidents and cumlative total between 2020 - 2024.
+- The number of car accidents and cumulative total between 2020 - 2024.
 - Average accidents per year.
-- Weather conditon at the time of accident.
+- Weather conditions at the time of the accident.
 - Type of traffic way of the accident site.
 
 ## Process
@@ -24,4 +24,4 @@ Car accidents trend over the 5 years.
 ## Insight
 - The most frequent time for a car accident to occur is at 14.
 - 74% of car accidents happened either in the four-way or non-divided way.
-- The majority of car accidents happened in clear weather condition (81%).
+- The majority of car accidents happened in clear weather conditions (81%).
