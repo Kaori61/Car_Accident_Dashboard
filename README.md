@@ -22,6 +22,6 @@ Traffic Accident dataset from [Kaggle](https://www.kaggle.com/datasets/oktayrdek
 ![Car accident dashboard](https://github.com/user-attachments/assets/de964824-ce35-45ea-86e8-712130dbfe2c)
 
 ## Insight
-- The most frequent time for a car accident to occur is at 14.
+- The most frequent time for a car accident to occur is at 2pm.
 - 74% of car accidents happened either in the four-way or non-divided way.
 - The majority of car accidents happened in clear weather conditions (81%).
