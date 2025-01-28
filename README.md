@@ -4,7 +4,7 @@
 Car accidents trend over the 5 years.
 
 ## Data used
-Traffic Accident dataset from [Kaggle](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents)
+[Traffic accidents](https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents)
 
 ## Questions (KIPs)
 - The number of car accidents and cumulative total between 2020 - 2024.
